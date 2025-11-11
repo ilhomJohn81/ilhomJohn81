@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ilhomJohn81/ilhomJohn81/main/Image.png" alt="Ilhom_John DevOps Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi there 👋 I'm Ilhom_John</h1>
 <h3 align="center">🚀 DevOps Engineer | Automate • Scale • Deliver</h3>
 
@@ -37,13 +41,6 @@ Dedicated to improving developer workflows and ensuring smooth CI/CD delivery ac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
-</p>
-
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhomJohn81&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs" alt="GitHub Stats" width="60%"/>
 </p>
 
 ---
