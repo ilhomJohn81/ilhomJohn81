@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ilhomJohn81/ilhomJohn81/main/Image.png" alt="Ilhom_John DevOps Banner" width="100%"/>
+  <img src="https://github.com/ilhomJohn81/ilhomJohn81/blob/main/ezgif.com-reverse.gif" alt="Ilhom_John DevOps Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Ilhom_John</h1>
