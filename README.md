@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ilhomJohn81/ilhomJohn81/blob/main/devops.gif" alt="Ilhom_John DevOps Banner" width="100%"/>
+  <img src="https://github.com/ilhomJohn81/DevOops/blob/main/devops.gif" alt="Ilhom_John DevOps Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Ilhom_John</h1>
